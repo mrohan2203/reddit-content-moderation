@@ -13,16 +13,9 @@ Preprocessed using feature selection, handling missing values, and balancing cla
 3. Class Imbalance Handling using scale_pos_weight
 4. Evaluation Metrics: Precision, Recall, F1-score
 
-## Installation and Usage
-<tab><tab>
-# Clone the repository
-git clone https://github.com/yourusername/NLP-Content-Moderation.git
-cd NLP-Content-Moderation
+## Results and Findings
+	•	Balanced dataset performance improvement
+	•	Optimized XGBoost model achieving high precision & recall
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the notebook
-jupyter notebook
 
 
