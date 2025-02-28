@@ -3,6 +3,9 @@ Text classification using NLP and XGBoost for content moderation.
 
 A machine learning project that applies NLP techniques to classify text content using TF-IDF embeddings and XGBoost, handling class imbalance effectively.
 
+Notebook 1: Analysis with a smaller subset (10%) and all three pipelines (Sparse Embeddings, Feature Engineering, Sparse Embed + FE)
+Notebook 2: Analysis with a bigger subset (40%) and one chosen pipeline (Sparse Embed + FE)
+
 ## Dataset
 Uses a dataset containing text samples with labels indicating whether content was moderated (REMOVED or not).
 Preprocessed using feature selection, handling missing values, and balancing classes.
