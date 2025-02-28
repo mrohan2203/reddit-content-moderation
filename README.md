@@ -8,9 +8,20 @@ Uses a dataset containing text samples with labels indicating whether content wa
 Preprocessed using feature selection, handling missing values, and balancing classes.
 
 ## Model and Techniques Used
-	•	TF-IDF Vectorization for text feature extraction
-	•	XGBoost Classifier with hyperparameter tuning
-	•	Class Imbalance Handling using scale_pos_weight
-	•	Evaluation Metrics: Precision, Recall, F1-score
+1. TF-IDF Vectorization for text feature extraction
+2. XGBoost Classifier with hyperparameter tuning
+3. Class Imbalance Handling using scale_pos_weight
+4. Evaluation Metrics: Precision, Recall, F1-score
+
+## Installation and Usage
+# Clone the repository
+git clone https://github.com/yourusername/NLP-Content-Moderation.git
+cd NLP-Content-Moderation
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the notebook
+jupyter notebook
 
 
