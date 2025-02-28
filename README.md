@@ -14,7 +14,8 @@ Preprocessed using feature selection, handling missing values, and balancing cla
 4. Evaluation Metrics: Precision, Recall, F1-score
 
 ## Installation and Usage
-`# Clone the repository
+<tab><tab>
+# Clone the repository
 git clone https://github.com/yourusername/NLP-Content-Moderation.git
 cd NLP-Content-Moderation
 
@@ -22,6 +23,6 @@ cd NLP-Content-Moderation
 pip install -r requirements.txt
 
 # Run the notebook
-jupyter notebook`
+jupyter notebook
 
 
